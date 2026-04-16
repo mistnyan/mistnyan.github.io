@@ -20,7 +20,7 @@ description: "unprofessional translations by yours truly" # This will show up in
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
