@@ -6,8 +6,7 @@ tag: [nhvgm]
 
 ![nhvgm](/images/nhvgm1.jpg)
 
-Written by *영송*
-
+Written by *영송*\
 Support the author [here](https://page.kakao.com/content/60518770)
 
 # Synopsis
