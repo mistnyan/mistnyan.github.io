@@ -18,7 +18,7 @@ The problem? I'm a civilian with zero combat ability!
 
 I’d been bouncing between part-time jobs, just trying to live an ordinary life, when one day I got caught up in a gate incident. When I came to...
 
-【Welcome, Awakener <Kwon Asol>!】  
+【Welcome, Awakener <Kwon Asol>!】\
 【Your unique ability, <Gate>, has been fully analyzed!】
 
 'What?'
@@ -46,6 +46,8 @@ Hundreds of teddy bears came pouring out of the opened gate.
 ─Why do all the monsters Kwon Asol summon look like that lol
 
 Alongside the disastrous aesthetic senses of all those around me.
+
+&nbsp;
 
 # Table of Contents
 
