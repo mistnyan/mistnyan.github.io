@@ -50,4 +50,4 @@ Alongside the disastrous aesthetic senses of all those around me.
 
 # Table of Contents
 
-Chapter 1
+[Chapter 1](https://mistnyan.github.io/nhvgm/2026/04/16/nhvgm001.html)
