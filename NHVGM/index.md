@@ -17,8 +17,8 @@ The problem? I'm a civilian with zero combat ability!
 
 I’d been bouncing between part-time jobs, just trying to live an ordinary life, when one day I got caught up in a gate incident. When I came to...
 
-【Welcome, Awakener <Kwon Asol>!】  
-【Your unique ability, <Gate>, has been fully analyzed!】
+【Welcome, Awakener 〈Kwon Asol〉!】  
+【Your unique ability, 〈Gate〉, has been fully analyzed!】
 
 'What?'
 
@@ -31,7 +31,7 @@ Given the circumstances, I only had one goal.
 But...
 
 【Generating personal gate!】  
-【Personal monster <Lovely Teddy Bear> has been summoned!】
+【Personal monster 〈Lovely Teddy Bear〉 has been summoned!】
 
 Hundreds of teddy bears came pouring out of the opened gate.
 
