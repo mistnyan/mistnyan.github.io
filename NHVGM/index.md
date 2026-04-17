@@ -18,7 +18,7 @@ The problem? I'm a civilian with zero combat ability!
 I’d been bouncing between part-time jobs, just trying to live an ordinary life, when one day I got caught up in a gate incident. When I came to...
 
 【Welcome, Awakener 〈Kwon Asol〉!】  
-【Your unique ability, 〈Gate〉, has been fully analyzed!】
+【Your unique ability 〈Gate〉 has been fully analyzed!】
 
 'What?'
 
